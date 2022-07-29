@@ -12,7 +12,7 @@ I have used Flask as backend, the website will be hosted on a local server, whic
 
 ## Setup
 
-In setup, you have to install flask and set up a virtual environment having all the required dependencies. All is explained on the Flask website :
+In setup, you have to install flask and set up a virtual environment having all the required dependencies. Everything is explained on the Flask website :
 
 <a href="https://flask.palletsprojects.com/en/2.1.x/installation/#python-version"><img src="https://flask.palletsprojects.com/en/2.1.x/_static/flask-icon.png"></a>
 
