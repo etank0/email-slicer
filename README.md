@@ -46,24 +46,17 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  ### Running app.py from terminal
  
-https://user-images.githubusercontent.com/89385145/181847896-780fa8ac-744d-4eed-82ba-313e5a6476c7.jpg
- 
+ ![11](https://user-images.githubusercontent.com/89385145/181848116-5f26ddc5-954d-4b4d-9cd6-eedc74fd4f60.jpg)
+
  ### Fresh in Firefox
 
-https://user-images.githubusercontent.com/89385145/181847989-b098f139-fada-4454-9c92-91fb9efad782.jpg
+![12](https://user-images.githubusercontent.com/89385145/181848150-f6eb135f-357a-4242-b701-090c266d1a41.jpg)
 
  
  ### After Entering Email
  
-https://user-images.githubusercontent.com/89385145/181848014-142fb5c7-b9db-4cde-9d19-ec9e32cae84f.jpg
+![13](https://user-images.githubusercontent.com/89385145/181848171-cf82e05a-985a-4ec4-9b69-ba3c0d354eb6.jpg)
 
  ### Final Result
- 
- https://user-images.githubusercontent.com/89385145/181848047-e9f7649d-f653-417c-a7c3-1416eccf04ca.jpg
 
- 
- 
- 
-
- 
-
+![14](https://user-images.githubusercontent.com/89385145/181848210-03afe102-d33c-403b-b7ac-86dfca21ebd4.jpg)
