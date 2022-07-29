@@ -18,7 +18,7 @@ In setup, you have to install flask and set up a virtual environment having all 
 
 ## Files
 
-Files needed here are inside "myproject" folder as mentioned on the above linked webpage.(Please follow all the steps mentioned on the flask website and then follow.)
+Files needed here are inside "myproject" folder as mentioned on the above linked webpage.(Please follow all the steps mentioned on the flask website and then come back and continue.)
  
  ### app.py
  
@@ -42,7 +42,7 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  ## Result
  
- Let's look at how our website looks and functions.
+ Let's look at how the website looks and functions.
  
  ### Running app.py from terminal
  
