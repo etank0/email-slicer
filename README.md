@@ -2,7 +2,7 @@
 ### ( Python Mini Project )
 
 In this project I have made a webpage that will take an email address as an  input and show us the "Email Username", "Email Domain" and "Suggested Username".
-I have used Flask as backend, the website will be hosted on a local server, which we can view in a browser.
+I have used Flask as backend, the website will be hosted on a local server, which we can view in any browser.
 
 ## Table of Contents
 
