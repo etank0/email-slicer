@@ -50,13 +50,12 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
 
  ### Fresh in Firefox
 
-![12](https://user-images.githubusercontent.com/89385145/181848150-f6eb135f-357a-4242-b701-090c266d1a41.jpg)
+![new1](https://user-images.githubusercontent.com/89385145/181860838-8a6666bc-0ac9-4428-a08d-2bf86b0da1ae.jpg)
 
- 
  ### After Entering Email
  
-![13](https://user-images.githubusercontent.com/89385145/181848171-cf82e05a-985a-4ec4-9b69-ba3c0d354eb6.jpg)
+![new2](https://user-images.githubusercontent.com/89385145/181860855-ad0b34f9-e6a3-4180-9b5f-d51a119be7ce.jpg)
 
  ### Final Result
-
-![14](https://user-images.githubusercontent.com/89385145/181848210-03afe102-d33c-403b-b7ac-86dfca21ebd4.jpg)
+ 
+ ![new3](https://user-images.githubusercontent.com/89385145/181860865-a415b8b2-6340-48f5-af88-7c73f2061f1a.jpg)
