@@ -1,0 +1,2 @@
+# email-slicer
+Python Project
