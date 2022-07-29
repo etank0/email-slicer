@@ -46,18 +46,18 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  ### Running app.py from terminal
  
- (https://github.com/etank0/email-slicer/tree/main/images/11.jpg?raw=true)
-  
+ https://github.com/etank0/email-slicer/tree/main/images/11.jpg
+ 
  ### Fresh in Firefox
  
- (https://github.com/etank0/email-slicer/tree/main/images/12.jpg?raw=true)
+ https://github.com/etank0/email-slicer/tree/main/images/12.jpg
  
  ### After Entering Email
  
-(https://github.com/etank0/email-slicer/tree/main/images/13.jpg?raw=true)
+https://github.com/etank0/email-slicer/tree/main/images/13.jpg
  
  ### Final Result
  
- (https://github.com/etank0/email-slicer/tree/main/images/14.jpg?raw=true)
+ https://github.com/etank0/email-slicer/tree/main/images/14.jpg
  
 
