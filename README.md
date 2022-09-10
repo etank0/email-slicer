@@ -24,8 +24,8 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  This is our main Python file. The email-slicer code is here and the result or returned output is going to be displayed on our website.
  
- ```txt
- Below lines of my Python file are the most important.
+ ```python3
+ #Below lines of my Python file are the most important.
  
        email = email.strip()  #getting rid of unnecessary spaces
        email1 = email.split("@")[0]  #splitting the string at '@" symbol 
