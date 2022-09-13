@@ -45,12 +45,12 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  Let's look at how the website looks and functions.
  
  ### Running app.py from terminal
- 
- ![11](https://user-images.githubusercontent.com/89385145/181848116-5f26ddc5-954d-4b4d-9cd6-eedc74fd4f60.jpg)
+
+![Screen2](https://user-images.githubusercontent.com/89385145/189984487-dde80b8c-f306-41a3-973d-b3df8a77db1d.jpg)
 
  ### Fresh in Firefox
 
-![new1](https://user-images.githubusercontent.com/89385145/181860838-8a6666bc-0ac9-4428-a08d-2bf86b0da1ae.jpg)
+![Screen1](https://user-images.githubusercontent.com/89385145/189984628-bf7bc304-37cb-4788-95b4-995534d36b9d.jpg)
 
  ### After Entering Email
  
