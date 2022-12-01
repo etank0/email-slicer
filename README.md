@@ -38,7 +38,7 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  ### static
  
- This is the folder where you can put files that you would like to add in your website. I have an image i.e. "bg.jpg" which is used as the background for my html file. I also have a 'styles.css' file that is use for styling.
+ This is the folder where you can put files that you would like to add in your website. I have an image i.e. "bg.jpg" which is used as the background for my html file. I also have a 'styles.css' file that is used for styling.
  
  ## Result
  
@@ -48,14 +48,12 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
 
 ![Screen2](https://user-images.githubusercontent.com/89385145/189984487-dde80b8c-f306-41a3-973d-b3df8a77db1d.jpg)
 
+
  ### Fresh in Firefox
-
-![Screen1](https://user-images.githubusercontent.com/89385145/189984628-bf7bc304-37cb-4788-95b4-995534d36b9d.jpg)
-
- ### After Entering Email
  
-![new2](https://user-images.githubusercontent.com/89385145/181860855-ad0b34f9-e6a3-4180-9b5f-d51a119be7ce.jpg)
+![Screenshot from 2022-12-02 01-34-49](https://user-images.githubusercontent.com/89385145/205149698-f5ce7c34-10c6-4568-bda2-8939dd692e3c.png)
 
- ### Final Result
+ ### Result after entering Email
  
- ![new3](https://user-images.githubusercontent.com/89385145/181860865-a415b8b2-6340-48f5-af88-7c73f2061f1a.jpg)
+ ![Screenshot from 2022-12-02 01-36-47](https://user-images.githubusercontent.com/89385145/205149762-f4bef393-ded2-424c-bbb4-6e1c1ef3e3b2.png)
+
