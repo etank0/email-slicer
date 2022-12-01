@@ -1,123 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-body {
-  font-family: Share Tech Mono;
-}
-
- table {
-  border-spacing: 4px;
-  border-collapse;
-  border: 3px solid;
-  border-radius: 8px;
-  border-color:grey;
-  
-}
-
-th, td {
-  
-  padding-left: 2px;
-  padding-right: 2px;
-  padding-top:4px;
-  padding-bottom:4px;
-  font-size:22px;
-  text-align:center;
-}
-
-input[type=text], select {
-  width: 300px;
-  padding: 12px 20px;
-  display: block;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  box-sizing: border-box;
-  font-family: Share Tech Mono;
-  font-size : 18px;
-}
-
-input[type=submit], select {
-  background-color: #04AA6D;
-  color: white;
-  padding: 3px 3px; 
-  border-radius: 8px;
-  border-color: #0066A2;
-  cursor: pointer;
-  
-}
-
-.center {
-  margin-left: auto;
-  margin-right: auto;
-  
- 
-}
-
-
-
-#enter{
-  width: 20em;  height: 3em; 
-}
-
-
-</style>
-
 <head>
-     
-   <title margin=>Python Email Slicer</title>
-     
+   <link rel="stylesheet" href='/static/styles.css'>     
+   <title>Python Email Slicer</title>
 </head>
 
 <body background = "{{url_for('static',filename='bg.jpg')}}">
 
-<h1 style="text-align : center;vertical-align:center;"><u><b>Email Slicer</u></b></h1>
+	<h1 style="text-align : center;vertical-align:center;"><u><b>Email Slicer</u></b></h1>
 
-<p style="text-align: center;padding: 6px 6px;font-size:18px;">
-<b>[Python Mini Project By - Swetank U (etank0)]</b>
-<br>
-</p>
+	<p style="text-align: center;padding: 6px 6px;font-size:18px;">
+		<b>[Python Mini Project By - Swetank U (etank0)]</b>
+		<br>
+	</p>
 
-<p style="text-align:center;padding: 2px 2px;font-size:25px;">
-<b>
-Enter Email Id with '@' and domain name
-</b>
-</p>
+	<p style="text-align:center;padding: 2px 2px;font-size:25px;">
+		<b>Enter Email Id with '@' and domain name</b>
+	</p>
 
-<div style="height:720px;vertical-align: middle;">
+  <div style="height:720px;vertical-align: middle;">
+	<table class="center">
+	  <form action="{{ url_for("index")}}" method="post">
+	    <tr>
+	      <td>
+	         <label for="email">Email Id:</label>
+	      </td>
+	      <td>
+	         <input type="text" id="email_id" name="email" placeholder="e.g. xyz@gmail.com">
+	      </td>
+		</tr>
 
-<table class="center">
-  <form action="{{ url_for("email_slicer")}}" method="post">
-    <tr>
-      <td>
-         <label for="email">Email Id:</label>
-      </td>
-      <td>
-         <input type="text" id="email_id" name="email" placeholder="e.g. xyz@gmail.com">
-      </td>
-     
-     <tr>
-       <td colspan="2">
-         Email Username : <b>{{result1}}</b>
-       </td>   
-     </tr>
-     
-      <tr>
-       <td colspan="2">
-         Email Domain : <b>{{result2}}</b>
-       </td> 
-     </tr>
-     
-     <tr>
-       <td colspan="2">
-         Suggested Username : <b>{{result3}}</b>
-       </td>
-     </tr>
-     
-     
-</table>
-
-</div>
-
-
+		<tr>
+			<td colspan="2" id="submit">
+				<input type="submit">
+			</td>
+		<tr>
+	</form>   
+	     <tr>
+	       <td colspan="2">
+	         Email Username : <b>{{result1}}</b>
+	       </td>   
+	     </tr>
+	     
+	      <tr>
+	       <td colspan="2">
+	         Email Domain : <b>{{result2}}</b>
+	       </td> 
+	     </tr>
+	     
+	     <tr>
+	       <td colspan="2">
+	         Suggested Username : <b>{{result3}}</b>
+	       </td>
+	     </tr>
+	</table>
+  </div>
 
 </body>
 </html>

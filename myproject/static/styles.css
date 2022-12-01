@@ -1,0 +1,53 @@
+body {
+  font-family: Share Tech Mono;
+}
+
+ table {
+  border-spacing: 4px;
+  border-collapse;
+  border: 3px solid;
+  border-radius: 8px;
+  border-color:grey;
+  
+}
+
+th, td {
+  
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top:4px;
+  padding-bottom:4px;
+  font-size:22px;
+}
+
+input[type=text], select {
+  width: 450px;
+  padding: 12px 20px;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-family: Share Tech Mono;
+  font-size : 18px;
+}
+
+input[type=submit], select {
+  background-color: #548452;
+  color: white;
+  padding: 4px 4px; 
+  font-size : 16px;
+  border-radius: 4px;
+  border-color: #1e2f1d;
+  cursor: pointer;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  height: 280px;
+}
+
+#submit{
+  text-align : center;
+}
+
