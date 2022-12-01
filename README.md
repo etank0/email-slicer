@@ -38,7 +38,7 @@ Files needed here are inside "myproject" folder as mentioned on the above linked
  
  ### static
  
- This is the folder where you can put files that you would like to add in your website. I have only image i.e. "bg.jpg" which is used as the background for my html file.
+ This is the folder where you can put files that you would like to add in your website. I have an image i.e. "bg.jpg" which is used as the background for my html file. I also have a 'styles.css' file that is use for styling.
  
  ## Result
  
