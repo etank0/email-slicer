@@ -7,11 +7,13 @@ app = Flask(__name__)
  
 @app.route('/', methods =["GET","POST"])
 def index():
+    email1 = ""
+    domain = ""
+    user_name = ""
     if request.method == "POST" : 
        email = request.form.get("email")  # getting input with name = email in HTML form
        email = email.strip()  #getting rid of unnecessary spaces
-       email1 = ""
-       domain = ""
+   
        if email.count('@')==1:
          email1 = email.split("@")[0]  #splitting the string at '@" symbol 
          domain = email.split("@")[1]  #assigning domain address to a variable
@@ -19,9 +21,7 @@ def index():
        else : 
            user_name = "Error! No/Wrong Input!"
  
-       return render_template('index.html',result1 = email1, result2 = domain, result3 = user_name )
-    else : 
-       return render_template('index.html')
+    return render_template('index.html',result1 = email1, result2 = domain, result3 = user_name )
 
 if __name__=='__main__':
    app.run()
